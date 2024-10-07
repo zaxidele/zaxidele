@@ -1,6 +1,6 @@
 # About me
 **你好呀**
-*你好呀*
+- *你好呀*
 
 
 - 🔭 I’m currently working on ...
